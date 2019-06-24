@@ -101,19 +101,4 @@ class Particle
       red = 0;
     }
   }
-  
-  /*
-  void collision()
-  {
-    if(location.x>width || location.x<0)
-    {
-      direction.x = -direction.x;
-    }
-
-    if(location.y>height || location.y<0)
-    {
-      direction.x = -direction.x;
-    }
-  }
-  */
 }

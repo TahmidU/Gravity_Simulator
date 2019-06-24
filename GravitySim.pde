@@ -26,9 +26,3 @@ void draw()
   }
   
 }
-
-void mousePressed()
-{
-  
-  
-}
