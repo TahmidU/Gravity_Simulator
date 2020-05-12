@@ -1,6 +1,8 @@
 # Gravity_Simulator
 Simple gravity simulator where particles follow the mouse. Colour changes depending on the force acting on the particle (Red -> Strong and Green -> Weak).
 
+![](gravity_preview.gif)
+
 ## Installation
 
 Download Processing (required):
